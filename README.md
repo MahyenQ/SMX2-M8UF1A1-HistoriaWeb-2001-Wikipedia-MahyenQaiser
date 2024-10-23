@@ -39,6 +39,10 @@ HistoriaWeb
 |[La Enciclopedia Británica](https://es.wikipedia.org/wiki/Enciclopedia_Brit%C3%A1nica) existe desde hace más de *250 años*.||Mientras que [Wikipedia](https://es.wikipedia.org/wiki/Wikipedia) lleva *20 años* en funcionamiento.|
 |----------|:----------:|
 
+
+|[La Enciclopedia Británica](https://es.wikipedia.org/wiki/Enciclopedia_Brit%C3%A1nica) existe desde hace más de *250 años*||Mientras que [Wikipedia](https://es.wikipedia.org/wiki/Wikipedia) lleva *20 años* en funcionamiento.|
+|----------|:----------:|
+
 A pesar de su corta existencia, *Wikipedia* ya tiene un contenido más extenso y diverso que sus competidores.
 
 
